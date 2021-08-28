@@ -1,0 +1,3 @@
+﻿  mainSource.cpp
+C:\Users\diego\Desktop\QuickSort\QuickSort\mainSource.cpp(98): warning C4172: devolución de dirección de la variable local o temporal: myArray
+  QuickSort.vcxproj -> C:\Users\diego\Desktop\QuickSort\Debug\QuickSort.exe
